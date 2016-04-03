@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request>
+<header mode="plain">
+<version>1</version>
+</header>
+<body>
+<uuid>5s4dfds56ff</uuid>
+<id>1</id>
+<username>myuser</username>
+<email>my@gmail.com</email>
+<password>123</password>
+</body>
+</request>

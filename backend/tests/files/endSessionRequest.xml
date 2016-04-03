@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request>
+<header mode="plain">
+<version>1</version>
+</header>
+<body>
+<uuid>blabla</uuid>
+<id>3</id>
+<session>dd</session>
+</body>
+</request>
