@@ -1,0 +1,9 @@
+Android and PHP RSA
+http://lukieb.blogspot.com/2013/06/rsa-public-key-encryption-java-to-php.html
+
+
+generating keys
+http://stackoverflow.com/questions/5244129/openssl-use-rsa-private-key-to-generate-public-key
+
+converting keys format
+http://stackoverflow.com/questions/3162155/convert-rsa-public-key-to-rsa-der

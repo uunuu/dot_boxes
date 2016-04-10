@@ -18,6 +18,7 @@ class GameControl
 	public static function matchPendingGames()
 	{
 		$sizes ;
+		/** @var $i is the size of the board. it can't be smaller than 2. #0 is set by default as the biggest */
 		for($i=2;$i<30;$i++)
 		{
 			if(pending_game::get_count_pending_by_size($i) > 1)
